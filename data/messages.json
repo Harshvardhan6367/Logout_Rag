@@ -47,6 +47,102 @@
       "role": "ai",
       "content": "Here's the information about the painkillers prescribed:\n\n*   **TAB ETICOX 90MG:**\n    *   **Dosage and Timing:** Take 1 tablet in the morning and 1 tablet at night.\n    *   **Common Use:** Etoricoxib is a non-steroidal anti-inflammatory drug (NSAID) commonly used to relieve pain and inflammation associated with conditions like arthritis, gout, and acute pain.\n\n*   **TAB FOR JOINT G 1500:**\n    *   **Dosage and Timing:** Take 1 tablet in the morning and 1 tablet at night. The (20) likely refers to a specific duration or frequency, but further clarification might be needed from your doctor.\n    *   **Common Use:** This medication likely contains Glucosamine and Chondroitin, which are commonly used to help manage joint pain and support cartilage health, particularly in osteoarthritis.\n\n*   **OINT ADAPYRIN GEL:**\n    *   **Dosage and Timing:** Apply in the morning, afternoon, and night. The (2) likely refers to the number of times per day or a specific application instruction.\n    *   **Common Use:** This is a topical medication, likely a pain-relieving gel. Specific ingredients would be needed for more precise information.\n\n*   **OINT ANOMETROGYL:**\n    *   **Dosage and Timing:** Apply in the morning. The (1) likely refers to the number of times per day or a specific application instruction.\n    *   **Common Use:** This is a topical medication. Specific ingredients would be needed for more precise information.\n\nPlease remember to follow the specific instructions provided by your doctor for all medications. If you have any concerns or need further clarification, it's best to consult with your healthcare provider.",
       "timestamp": "2026-02-06T17:17:45.898454"
+    },
+    {
+      "session_id": "69f3d9ca-27da-4b1d-be54-f985aa9780b5",
+      "role": "user",
+      "content": "What disese I have",
+      "timestamp": "2026-02-21T01:26:50.095079"
+    },
+    {
+      "session_id": "69f3d9ca-27da-4b1d-be54-f985aa9780b5",
+      "role": "ai",
+      "content": "I am sorry, but I cannot tell you what disease you have. I am a medical assistant and can only provide information about your medications based on the prescriptions provided. For a diagnosis, please consult with your doctor.",
+      "timestamp": "2026-02-21T01:26:50.115263"
+    },
+    {
+      "session_id": "69f3d9ca-27da-4b1d-be54-f985aa9780b5",
+      "role": "user",
+      "content": "Which medicine work for Which Purpose Explain in lehman terms!!",
+      "timestamp": "2026-02-21T01:37:59.934459"
+    },
+    {
+      "session_id": "69f3d9ca-27da-4b1d-be54-f985aa9780b5",
+      "role": "ai",
+      "content": "Here's a breakdown of your medications in simple terms:\n\n*   **Losar H (RepoceH):** Take one in the **morning**. This medicine is generally used to help lower blood pressure.\n\n*   **Losar 25:** Take one in the **afternoon**. This medicine is also generally used to help lower blood pressure.\n\n*   **Amlodac 5:** Take one in the **morning** and one at **night**. This medicine is commonly used to treat high blood pressure and chest pain (angina).\n\n*   **Avos 10:** Take one in the **afternoon**. This medicine is typically used to help manage blood sugar levels in diabetes.\n\n*   **Dicorate ER 250:** Take one in the **morning** and one at **night**. This medicine is commonly used to prevent seizures in epilepsy and to treat certain types of bipolar disorder.\n\n*   **Localm PLUS:** Take one in the **morning** and one at **night**. This medicine is usually prescribed to help reduce stomach acid and treat conditions like heartburn and ulcers.\n\n*   **Lonezep 1mg:** Take one in the **afternoon**. This medicine is typically used to treat anxiety and seizure disorders.\n\n*   **Glucored Forte:** Take one in the **morning** and one at **night**. This medicine is commonly used to manage blood sugar levels in type 2 diabetes.\n\n*   **Glycomet SR 500:** Take one in the **morning** and one at **night**. This medicine is also commonly used to help control blood sugar levels in type 2 diabetes.\n\n*   **Pantop 40:** Take one in the **morning**. This medicine is generally used to reduce the amount of acid in your stomach, often for conditions like heartburn or ulcers.",
+      "timestamp": "2026-02-21T01:37:59.954948"
+    },
+    {
+      "session_id": "69f3d9ca-27da-4b1d-be54-f985aa9780b5",
+      "role": "user",
+      "content": "is Pantop 40  good for me or not?",
+      "timestamp": "2026-02-21T01:49:02.940026"
+    },
+    {
+      "session_id": "69f3d9ca-27da-4b1d-be54-f985aa9780b5",
+      "role": "ai",
+      "content": "Pantop 40 is prescribed to be taken once in the morning. It is generally used to reduce the amount of acid in the stomach and is often prescribed for conditions like heartburn and ulcers.",
+      "timestamp": "2026-02-21T01:49:02.961050"
+    },
+    {
+      "session_id": "69f3d9ca-27da-4b1d-be54-f985aa9780b5",
+      "role": "user",
+      "content": "hi",
+      "timestamp": "2026-02-21T01:52:12.128964"
+    },
+    {
+      "session_id": "69f3d9ca-27da-4b1d-be54-f985aa9780b5",
+      "role": "ai",
+      "content": "Hello! How can I help you today?",
+      "timestamp": "2026-02-21T01:52:12.148509"
+    },
+    {
+      "session_id": "69f3d9ca-27da-4b1d-be54-f985aa9780b5",
+      "role": "user",
+      "content": "hi",
+      "timestamp": "2026-02-21T01:54:18.053502"
+    },
+    {
+      "session_id": "69f3d9ca-27da-4b1d-be54-f985aa9780b5",
+      "role": "ai",
+      "content": "Hello! How can I help you today?",
+      "timestamp": "2026-02-21T01:54:18.075775"
+    },
+    {
+      "session_id": "69f3d9ca-27da-4b1d-be54-f985aa9780b5",
+      "role": "user",
+      "content": "hi",
+      "timestamp": "2026-02-21T01:56:54.800523"
+    },
+    {
+      "session_id": "69f3d9ca-27da-4b1d-be54-f985aa9780b5",
+      "role": "ai",
+      "content": "Hello! How can I help you today?",
+      "timestamp": "2026-02-21T01:56:54.820231"
+    },
+    {
+      "session_id": "69f3d9ca-27da-4b1d-be54-f985aa9780b5",
+      "role": "user",
+      "content": "hi",
+      "timestamp": "2026-02-21T01:58:20.451477"
+    },
+    {
+      "session_id": "69f3d9ca-27da-4b1d-be54-f985aa9780b5",
+      "role": "ai",
+      "content": "Hello! How can I help you today?",
+      "timestamp": "2026-02-21T01:58:20.472990"
+    },
+    {
+      "session_id": "69f3d9ca-27da-4b1d-be54-f985aa9780b5",
+      "role": "user",
+      "content": "is any other medficine to overcome heartburn ?",
+      "timestamp": "2026-02-21T01:59:20.489786"
+    },
+    {
+      "session_id": "69f3d9ca-27da-4b1d-be54-f985aa9780b5",
+      "role": "ai",
+      "content": "Yes, you are prescribed **Pantop 40**.\n\n*   **Dosage and Timing:** Take one tablet in the morning.\n*   **General Use:** Pantoprazole is a proton pump inhibitor (PPI) commonly used to treat conditions caused by excess stomach acid, such as heartburn, acid reflux, and ulcers.",
+      "timestamp": "2026-02-21T01:59:20.509893"
     }
   ]
 }

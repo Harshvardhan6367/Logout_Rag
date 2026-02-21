@@ -122,6 +122,26 @@
           }
         ]
       }
+    },
+    {
+      "session_id": "69f3d9ca-27da-4b1d-be54-f985aa9780b5",
+      "user_id": "Guest",
+      "prescription_id": "9db15a2b-8658-4f76-878d-960a6f274d30",
+      "summary": "",
+      "created_at": "2026-02-21T01:25:54.490107",
+      "last_active": "2026-02-21T01:59:20.523872",
+      "title": "Prescription: Losar H (RepoceH), Losar 25...",
+      "filename": "00546.jpg",
+      "details": "- Losar H (RepoceH) (Qty: -): Morning: Yes, Afternoon: No, Night: No, Instruction: -, Freq: 1-0-0, Duration: -\n- Losar 25 (Qty: -): Morning: No, Afternoon: Yes, Night: No, Instruction: -, Freq: 0-1-0, Duration: -\n- Amlodac 5 (Qty: -): Morning: Yes, Afternoon: No, Night: Yes, Instruction: -, Freq: 1-0-1, Duration: -\n- Avos 10 (Qty: -): Morning: No, Afternoon: Yes, Night: No, Instruction: -, Freq: 0-1-0, Duration: -\n- Dicorate ER 250 (Qty: -): Morning: Yes, Afternoon: No, Night: Yes, Instruction: -, Freq: 1-0-1, Duration: -\n- Localm PLUS (Qty: -): Morning: Yes, Afternoon: No, Night: Yes, Instruction: -, Freq: 1-0-1, Duration: -\n- Lonezep 1mg (Qty: -): Morning: No, Afternoon: Yes, Night: No, Instruction: -, Freq: 0-1-0, Duration: -\n- Glucored Forte (Qty: -): Morning: Yes, Afternoon: No, Night: Yes, Instruction: -, Freq: 1-0-1, Duration: -\n- Glycomet SR 500 (Qty: -): Morning: Yes, Afternoon: No, Night: Yes, Instruction: -, Freq: 1-0-1, Duration: -\n- Pantop 40 (Qty: -): Morning: Yes, Afternoon: No, Night: No, Instruction: -, Freq: 1-0-0, Duration: -",
+      "otc_result": {
+        "otc_medicines": [],
+        "consult_medicines": [
+          {
+            "name": "- Losar H ",
+            "reason": "No matching approved OTC medicine found in database."
+          }
+        ]
+      }
     }
   ]
 }

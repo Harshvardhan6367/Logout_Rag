@@ -21,6 +21,11 @@ try:
         Config.GOOGLE_API_KEY = st.secrets["GOOGLE_API_KEY"]
         os.environ["GOOGLE_API_KEY"] = st.secrets["GOOGLE_API_KEY"] # Set for other libs
         logger.info("Successfully loaded GOOGLE_API_KEY from Streamlit Secrets via app.py patch.")
+    
+    if not Config.OPENAI_API_KEY and "OPENAI_API_KEY" in st.secrets:
+        Config.OPENAI_API_KEY = st.secrets["OPENAI_API_KEY"]
+        os.environ["OPENAI_API_KEY"] = st.secrets["OPENAI_API_KEY"]
+        logger.info("Successfully loaded OPENAI_API_KEY from Streamlit Secrets via app.py patch.")
 except Exception as e:
     logger.warning(f"Failed to check Streamlit secrets in app.py: {e}")
 
@@ -441,6 +446,11 @@ elif page == "Home":
                 st.session_state.messages.append({"role": "ai", "content": answer})
                 with st.chat_message("ai"):
                     st.markdown(answer)
+                    
+                # Display Judge Decision if available
+                if "final_decision" in result:
+                    with st.expander("⚖️ OpenAI Judge Decision"):
+                        st.markdown(result["final_decision"])
                 
                 # Rerun to update history and keep OTC check at the bottom
                 st.rerun()
